@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <mata charest="UTF-8"></mata>
+        <title>Tanakrit Resume</title>
+    </head>
+    <body>
+        <h1>Tanakrit Kaewutai</h1>
+        <p>Address : Bangkok , Thailand <br/>
+        Phone : 096-5879947 <br/>
+        Email : Tanakrit.kaewutai@gmail.com </p>
+        <img src="./Pic/IMG_2892.JPG" width="120" height="150" alt="Profile">
+        <hr/>
+        <h2>Summary</h2>
+        <p>Commissioning Engineer with field service experience in SGT-800 Gas Turbine system. Expertise in system operation, control logic, and sequence of operation. Skill in troubleshooting, system vaildation, and supporting start-up activities to ensure reliable and efficient turbine performance.</p>
+        <hr/>
+        <h2>Experience</h2>
+        <h3>Siemens Energy (Sep 2023 - Present)</h3>
+        <h4>Commissioning Engineer (Field Service SGT-800 Gas Turbine)</h4>
+        <ul>
+            <li>Support field service and commissioning activities for STG-800 gas turbine system</li>
+            <li>Analyzed system operation and sequence of operation during start-up and shutdown</li>
+            <li>Performed system-level troubleshooting, focusing on control logic, interlocks, and permissivie</li>
+            <li>Identified root causes of system abnormalities and implemented corrective actions</li>
+            <li>Verified system function and ensured proper sequence execution</li>
+            <li>Coordinated with operation and engineering teams to resolve on-site issues</li>
+        </ul>
+        <h3>Siemens Mobility Thailand (Jul 2021 - Sep 2023)</h3>
+        <h4>Service Engineer (Rolling Stock)</h4>
+        <ul>
+            <li>Performed preventive and corrective maintenance on rolling stock electrical and control systems</li>
+            <li>Conducted troubleshooting at system level to identify root causes of train faults</li>
+            <li>Analyzed system behavior and equipment interaction during abnormal condition</li>
+            <li>Worked with onboard control system, sensor and electrical components</li>
+            <li>Supported function testing and system verification after maintenance activities</li>
+            <li>Coordinated with engineering teams to resolve technical issues and improved system reliability</li>
+            <li>Ensured compliance with safety standards and maintenance procedures</li>
+        </ul>
+        <hr/>
+        <h2>Education</h2>
+        <ul>
+            <li><h3>King Moungkut's University of Technology North Bangkok (Aug 2017 - May 2021)</h3></li>
+            <ul>
+                <li>Second class honors in Bachelor's degree</li>
+                <li>Department of Power Engineering of technology</li>
+                <li>Major of Aircraft Maintenance Engineer</li>
+                
+            </ul>
+            <li><h3>Thai-German Pre-Engineering School (May 2014 - Mar 2017)</h3></li>
+            <ul>
+                <li>Certificate in Technical Education</li>
+                <li>Major of Pre-Machanical Engineer</li>
+            </ul>
+        </ul>
+        <hr/>
+        <h2>Additional information</h2>
+        <ul>
+            <li><h3>Technical Skill :</h3></li>
+            <ul>
+                <li>PCS7, Measuring Instrument, Analysis, Mechanical, Electrical, html</li>
+            </ul>
+            <li><h3>Certificate</h3></li>
+            <ul>
+                <li>Confine space, Basic fire fighting, First Aid, EHS, PCS7, LOTO</li>
+            </ul>
+            <li><h3>language</h3></li>
+            <ul>
+                <li>Thai, English</li>
+            </ul>
+        </ul>
+    </body>
+
+ </html>   
